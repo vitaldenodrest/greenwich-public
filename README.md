@@ -5,6 +5,8 @@ Publicly available repository for my UoG related works
 
 This repository is under two licenses:
 
-*   **Code**: The code is under **MIT** license. See [LICENSE-CODE.txt](LICENSE-CODE.txt).
-*   **Documentation & PDFs** : PDF files and text contents are under **Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)** license. See [LICENSE-DOCS.txt](LICENSE-DOCS.txt).
-    *   *Stripping out author names or editing contents is strictly forbidden when redistributing.*
+*   **Code[^1]**: The code[^1] is under **MIT** license. Feel free to share and experiment. See [LICENSE-CODE.txt](LICENSE-CODE.txt).
+*   **Documentation[^2] & PDFs** : PDF files and documentation[^2] are under **CC BY-NC-SA 4.0** license. See [LICENSE-DOCS.txt](LICENSE-DOCS.txt).
+
+[^1]: `.py` files and code cells in `.ipynb` files
+[^2]: `.tex` files and text cells in `.ipynb` files
