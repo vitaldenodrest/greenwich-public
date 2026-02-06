@@ -1,4 +1,4 @@
-MIT License (applied to .py files and .ipynb text cells only)
+MIT License (applied to .py files and .ipynb code cells only)
 
 Copyright (c) 2026 Vital de Nodrest
 
