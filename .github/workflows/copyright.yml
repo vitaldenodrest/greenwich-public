@@ -16,6 +16,11 @@ jobs:
           text: "# Copyright (c) 2026 [Vital de Nodrest]\n# Licensed under the MIT License.\n# See LICENSE-CODE.txt in the project root for license information."
           file_pattern: "*.py"
 
+      - uses: vitaldenodrest/file-header@v0.0.2-alpha
+        with:
+          text: "% Copyright (c) 2026 [Vital de Nodrest]\n% Licensed under CC BY-NC-SA 4.0\n% Removal of the author's name or redistribution without credit is prohibited.\n% See LICENSE-DOCS.txt in the project root for license information."
+          file_pattern: "*.tex"
+
       - uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
           commit_message: 'check copyright headers'
