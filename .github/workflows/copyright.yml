@@ -17,7 +17,7 @@ jobs:
             # Copyright (c) 2026 [Vital de Nodrest]
             # Licensed under the MIT License.
             # See LICENSE-CODE.txt in the project root for license information.
-          file_pattern: '**/*.py'
+          file_pattern: '*.py'
 
       - uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
