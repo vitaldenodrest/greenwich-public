@@ -6,7 +6,7 @@ Copyright (c) 2026 [Vital de Nodrest]
 
 ## License
 
-This repository is under two licenses:
+This repository is dual-licensed:
 
 *   **Code[^1]**: The code[^1] is under **MIT** license. Feel free to share and experiment. See [LICENSE-CODE.txt](LICENSE-CODE.txt).
 *   **Documentation[^2] & PDFs** : PDF files and documentation[^2] are under **CC BY-NC-SA 4.0** license. **Note: Removal of the author's name from these documents is strictly prohibited.** See [LICENSE-DOCS.txt](LICENSE-DOCS.txt).
