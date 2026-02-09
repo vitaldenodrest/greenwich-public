@@ -43,7 +43,7 @@ jobs:
         run: |
           find . -name *.pdf -not -path "./.git/*" -type f | while read -r file; do
             echo "Processing $file..."
-            exiftool -Author="Vital de Nodrest" -Copyright="CC BY-NC-SA 4.0" $file
+            exiftool -overwrite_original -Author="Vital de Nodrest" -Copyright="CC BY-NC-SA 4.0" $file
             echo "$file processed."
           done
 
