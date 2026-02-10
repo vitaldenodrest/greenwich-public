@@ -1,0 +1,4 @@
+      - name: Add .ipynb copyright header cell
+        uses: vitaldenodrest/file-header@v0.0.2-alpha
+        with:
+          text: "{'cells': [{'cell_type': 'markdown','metadata': {},'source': ['# Copyright (c) 2026 [Vital de Nodrest]\n','\n','The code (Python, shell and PowerShell cells) is under the MIT license. Feel free to share and experiment! See LICENSE-CODE.txt in the project root for more information.\n', '\n', 'Due to their time-consuming and didactic nature, text & image contents are under the CC BY-NC-SA 4.0 license. Removal of the author's name or redistribution without credit is prohibited. See LICENSE-DOCS.txt in the project root for more information.']},"
