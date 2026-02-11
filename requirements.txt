@@ -1,0 +1,7 @@
+ipykernel
+ipython
+biblio-py
+markdown
+numpy
+matplotlib
+ipyBibtex
