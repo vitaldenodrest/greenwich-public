@@ -21,7 +21,7 @@ jobs:
       - name: Add header cells to .ipynb files
         uses: vitaldenodrest/nb-header-cell@v1.0.3
         with:
-          cell_source: "# Copyright (c) 2026 [Vital de Nodrest]\n\nThe code (Python, shell and PowerShell cells) is under MIT license. Feel free to share and experiment! See LICENSE-CODE.txt in the project root for more information.\nDue to their time-consuming and didactic nature, text & image contents are under the CC BY-NC-SA 4.0 license. Removal of the author's name or redistribution without credit is prohibited. See LICENSE-DOCS.txt in the project root for more information."
+          cell_source: "# Copyright (c) 2026 [Vital de Nodrest]\n\nThe code (Python, shell and PowerShell cells) is under MIT license. Feel free to share and experiment! See LICENSE-CODE.txt in the project root for more information.\nDue to their time-consuming and didactic nature, text & image contents are under CC BY-NC-SA 4.0 license. Removal of the author's name or redistribution without credit is prohibited. See LICENSE-DOCS.txt in the project root for more information."
 
       - uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
